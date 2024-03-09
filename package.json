@@ -1,0 +1,16 @@
+{
+    "name": "sesion5",
+    "version": "1.1.0",
+    "description": "Test en Node JS",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha",
+        "test1": "mocha test/test"
+    },
+    "author": "Noelia Beltrán",
+    "license": "MIT",
+    "devDependencies": {
+        "mocha": "^10.3.0",
+        "should": "^13.2.3"
+    }
+}
