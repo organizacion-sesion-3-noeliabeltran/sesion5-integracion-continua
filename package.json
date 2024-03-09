@@ -2,7 +2,7 @@
     "name": "sesion5",
     "version": "1.1.0",
     "description": "Test en Node JS",
-    "main": "index.js",
+    "main": "programa.js",
     "scripts": {
         "test": "mocha",
         "test1": "mocha test/test"
